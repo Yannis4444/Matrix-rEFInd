@@ -12,7 +12,7 @@ Clone this repository into a `themes` directory located inside the refind EFI di
 Then add `include themes/Matrix-rEFInd/theme.conf` at the end of the refind.conf.
 
 To hide unwanted options simply press delete while the icon is selected.
-To restore hidden icons use the lower left button.
+To restore hidden icons use the lower right button.
 
 ### Sources
 
