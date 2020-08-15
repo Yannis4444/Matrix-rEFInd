@@ -11,8 +11,8 @@ Clone this repository into a `themes` directory located inside the refind EFI di
 
 Then add `include themes/Matrix-rEFInd/theme.conf` at the end of the refind.conf.
 
-You probably also need to hide some unwanted boot options to only display the two wanted options.
-For this take a look at [hiding EFI bootloaders](https://rodsbooks.com/refind/configfile.html#hiding).
+To hide unwanted options simply press delete while the icon is selected.
+To restore hidden icons use the lower left button.
 
 ### Sources
 
